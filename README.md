@@ -1,8 +1,6 @@
-# Hi, I'm Markssuave 👋
+# Hi, I'm Sean Mark Vasquez 👋
 
 Welcome to my profile README.
-
-This repository contains my profile README and an automated workflow that will perform 10 auto-commits during September. The commits are automated by a scheduled GitHub Actions workflow and are used here for demonstration/keep-alive purposes.
 
 - Profile: @Markssuave
 - Repo: Markssuave/Markssuave
